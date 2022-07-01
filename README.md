@@ -1,4 +1,4 @@
-## Actor-Critic-from-scratch-RL
+## Solving Lunar-Lander-v2 Env using Actor-Critic
 <h3>Goal:</h3>
 
 * The goal is to understand the concept of policy gradient algorithms, to implement the  TD actor-critic algorithm and apply it to solve OpenAI gym environments.
