@@ -1,7 +1,7 @@
 ## Solving Lunar-Lander-v2, CartPole-v1 Env using Actor-Critic
 <h3>Goal:</h3>
 
-* The goal is to understand the concept of policy gradient algorithms, implement the  TD actor-critic algorithm and apply it to solve OpenAI gym environments.
+* The goal is to understand the concept of policy gradient algorithms, develop the TD actor-critic algorithm and apply it to solve OpenAI gym environments.
 
 <h3>Part 1:</h3>
 
